@@ -1,0 +1,51 @@
+[ {
+  "uid" : "3bec833f08e70fc5",
+  "name" : "test_search_without_entering_product",
+  "time" : {
+    "start" : 1699800940664,
+    "stop" : 1699800941343,
+    "duration" : 679
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f73d48a5cf255867",
+  "name" : "test_search_for_a_valid_product",
+  "time" : {
+    "start" : 1699800919081,
+    "stop" : 1699800919473,
+    "duration" : 392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7666c52bf04edf53",
+  "name" : "test_login_with_valid_credentials",
+  "time" : {
+    "start" : 1699800905900,
+    "stop" : 1699800912714,
+    "duration" : 6814
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "521d0b7449fa43fa",
+  "name" : "test_search_for_a_invalid_product",
+  "time" : {
+    "start" : 1699800929563,
+    "stop" : 1699800930413,
+    "duration" : 850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b10fa19ebf1828d2",
+  "name" : "test_login_with_valid_credentials",
+  "time" : {
+    "start" : 1699800898844,
+    "stop" : 1699800899765,
+    "duration" : 921
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

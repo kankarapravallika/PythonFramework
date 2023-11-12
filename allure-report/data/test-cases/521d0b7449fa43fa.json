@@ -1,0 +1,104 @@
+{
+  "uid" : "521d0b7449fa43fa",
+  "name" : "test_search_for_a_invalid_product",
+  "fullName" : "tests.test_search.TestSearch#test_search_for_a_invalid_product",
+  "historyId" : "1576fb72045a29160a673a85faedd99b",
+  "time" : {
+    "start" : 1699800929563,
+    "stop" : 1699800930413,
+    "duration" : 850
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup_and_teardown",
+    "time" : {
+      "start" : 1699800921624,
+      "stop" : 1699800929560,
+      "duration" : 7936
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setup_and_teardown::0",
+    "time" : {
+      "start" : 1699800930414,
+      "stop" : 1699800932597,
+      "duration" : 2183
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup_and_teardown')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSearch"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-THRLC6T"
+  }, {
+    "name" : "thread",
+    "value" : "13076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2209d62560029858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1699800133310,
+        "stop" : 1699800134041,
+        "duration" : 731
+      }
+    }, {
+      "uid" : "88ac6cda9b8fd397",
+      "status" : "passed",
+      "time" : {
+        "start" : 1699799338652,
+        "stop" : 1699799339202,
+        "duration" : 550
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('setup_and_teardown')" ]
+  },
+  "source" : "521d0b7449fa43fa.json",
+  "parameterValues" : [ ]
+}

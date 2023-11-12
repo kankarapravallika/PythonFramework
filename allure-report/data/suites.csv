@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 12 20:25:29 IST 2023","Sun Nov 12 20:25:30 IST 2023","850","tests","test_search","TestSearch","","","test_search_for_a_invalid_product",""
+"passed","Sun Nov 12 20:24:58 IST 2023","Sun Nov 12 20:24:59 IST 2023","921","tests","test_login","TestLogin","","","test_login_with_valid_credentials",""
+"passed","Sun Nov 12 20:25:19 IST 2023","Sun Nov 12 20:25:19 IST 2023","392","tests","test_search","TestSearch","","","test_search_for_a_valid_product",""
+"passed","Sun Nov 12 20:25:05 IST 2023","Sun Nov 12 20:25:12 IST 2023","6814","tests","test_register","TestRegister","","","test_login_with_valid_credentials",""
+"passed","Sun Nov 12 20:25:40 IST 2023","Sun Nov 12 20:25:41 IST 2023","679","tests","test_search","TestSearch","","","test_search_without_entering_product",""
